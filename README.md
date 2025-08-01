@@ -67,7 +67,7 @@ make
 - **Store values as arrays of shares rather than raw values:**  
   Adds more security to the primary script by storing encrypted values rather than raw data.  
   Also saves the library from having to split and reconstruct as often.  
-  Drawback of slightly having to reconstruct before returning a raw value, but calculations will be faster.
+  Drawback of having to reconstruct before returning a raw value, but calculations will be faster.
 
 ## Tips for Working on This Code
 - It may be easier to work on the code by testing ideas in the Non-Networked, C version. That is included alongside a networked standalone version. Working with these is much easier than directly tackling the library code.
