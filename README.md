@@ -76,6 +76,7 @@ make
 
 ## Acknowledgments
 
-- Sample code uses algorithms and code snippets from [GeeksforGeeks](https://www.geeksforgeeks.org/cpp/c-program-for-dijkstras-shortest-path-algorithm-greedy-algo-7/)
+- Sample code uses algorithms and code snippets from [GeeksforGeeks](https://www.geeksforgeeks.org/cpp/c-program-for-dijkstras-shortest-path-algorithm-greedy-algo-7/) and [Programiz](https://www.programiz.com/cpp-programming/examples/matrix-multiplication-function
+)
 
 - Credit to Rajais2 for foundational code
